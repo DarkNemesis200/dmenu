@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<title>dmenu « contrib - password-store - Simple password manager using gpg and ordinary unix directories.</title>
+<meta name='generator' content='cgit v1.2.1-28-gf32c'/>
+<meta name='robots' content='index, nofollow'/>
+<link rel='stylesheet' type='text/css' href='/cgit.css'/>
+<link rel='shortcut icon' href='/favicon.ico'/>
+<link rel='alternate' title='Atom feed' href='https://git.zx2c4.com/password-store/atom/contrib/dmenu?h=master' type='application/atom+xml'/>
+<link rel='vcs-git' href='https://git.zx2c4.com/password-store' title='password-store Git repository'/>
+<link rel='vcs-git' href='git://git.zx2c4.com/password-store' title='password-store Git repository'/>
+<link rel='vcs-git' href='ssh://git@git.zx2c4.com/password-store' title='password-store Git repository'/>
+</head>
+<body>
+<div id='cgit'><table id='header'>
+<tr>
+<td class='logo' rowspan='2'><a href='http://www.zx2c4.com/'><img src='/cgit.png' alt='cgit logo'/></a></td>
+<td class='main'><a href='/'>index</a> : <a title='password-store' href='/password-store/'>password-store</a></td><td class='form'><form method='get'>
+<select name='h' onchange='this.form.submit();'>
+<option value='import-keys'>import-keys</option>
+<option value='master' selected='selected'>master</option>
+<option value='pager'>pager</option>
+</select> <input type='submit' value='switch'/></form></td></tr>
+<tr><td class='sub'>Simple password manager using gpg and ordinary unix directories.</td><td class='sub right'>Jason A. Donenfeld</td></tr></table>
+<table class='tabs'><tr><td>
+<a href='/password-store/about/'>about</a><a href='/password-store/'>summary</a><a href='/password-store/refs/'>refs</a><a href='/password-store/log/contrib/dmenu'>log</a><a class='active' href='/password-store/tree/contrib/dmenu'>tree</a><a href='/password-store/commit/contrib/dmenu'>commit</a><a href='/password-store/diff/contrib/dmenu'>diff</a><a href='/password-store/stats/contrib/dmenu'>stats</a><a href='https://www.passwordstore.org/'>homepage</a></td><td class='form'><form class='right' method='get' action='/password-store/log/contrib/dmenu'>
+<select name='qt'>
+<option value='grep'>log msg</option>
+<option value='author'>author</option>
+<option value='committer'>committer</option>
+<option value='range'>range</option>
+</select>
+<input class='txt' type='search' size='10' name='q' value=''/>
+<input type='submit' value='search'/>
+</form>
+</td></tr></table>
+<div class='path'>path: <a href='/password-store/tree/'>root</a>/<a href='/password-store/tree/contrib'>contrib</a>/<a href='/password-store/tree/contrib/dmenu'>dmenu</a></div><div class='content'><table summary='tree listing' class='list'>
+<tr class='nohover'><th class='left'>Mode</th><th class='left'>Name</th><th class='right'>Size</th><th/></tr>
+<tr><td class='ls-mode'>-rw-r--r--</td><td><a class='ls-blob md' href='/password-store/tree/contrib/dmenu/README.md'>README.md</a></td><td class='ls-size'>547</td><td><a class='button' href='/password-store/log/contrib/dmenu/README.md'>log</a><a class='button' href='/password-store/stats/contrib/dmenu/README.md'>stats</a><a class='button' href='/password-store/plain/contrib/dmenu/README.md'>plain</a><a class='button' href='/password-store/blame/contrib/dmenu/README.md'>blame</a></td></tr>
+<tr><td class='ls-mode'>-rwxr-xr-x</td><td><a class='ls-blob' href='/password-store/tree/contrib/dmenu/passmenu'>passmenu</a></td><td class='ls-size'>571</td><td><a class='button' href='/password-store/log/contrib/dmenu/passmenu'>log</a><a class='button' href='/password-store/stats/contrib/dmenu/passmenu'>stats</a><a class='button' href='/password-store/plain/contrib/dmenu/passmenu'>plain</a><a class='button' href='/password-store/blame/contrib/dmenu/passmenu'>blame</a></td></tr>
+</table>
+</div> <!-- class=content -->
+<div class='footer'>Copyright &copy; 1996 &ndash; 2019 Jason A. Donenfeld. All Rights Reverse Engineered.</div>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-135234-5']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</div> <!-- id=cgit -->
+</body>
+</html>
